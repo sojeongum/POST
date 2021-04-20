@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593109250240",
+    "firebase_url": "https://for-tomorrow-147fb-default-rtdb.firebaseio.com",
+    "project_id": "for-tomorrow-147fb",
+    "storage_bucket": "for-tomorrow-147fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593109250240:android:1722cac92400f4c879fd25",
+        "android_client_info": {
+          "package_name": "android.example.post"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593109250240-v8ljoedf2t1rmf6snstrl1h55m13f6fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpo7lKXm0FRdBB3-yo-UmWNqsS7ifsRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593109250240-v8ljoedf2t1rmf6snstrl1h55m13f6fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
